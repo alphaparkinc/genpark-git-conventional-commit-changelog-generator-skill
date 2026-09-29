@@ -1,0 +1,20 @@
+{
+  "name": "genpark-git-conventional-commit-changelog-generator-skill",
+  "version": "1.0.0",
+  "description": "Semantic code diff analyzer generating conventional commit messages and automated markdown changelogs",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "conventional-commits",
+    "changelog-generator",
+    "git-tools",
+    "diff-analyzer",
+    "developer-tools",
+    "python-standard-library",
+    "agent-skills",
+    "autonomous-coding",
+    "release-engineering",
+    "git-automation"
+  ]
+}
