@@ -1,0 +1,6 @@
+name: genpark-git-conventional-commit-changelog-generator-skill
+version: 1.0.0
+description: Semantic code diff analyzer generating conventional commit messages and automated markdown changelogs
+command: python
+args:
+  - mcp_server.py
