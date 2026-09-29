@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-git-conventional-commit-changelog-generator-skill"
+version = "1.0.0"
+description = "Semantic code diff analyzer generating conventional commit messages and automated markdown changelogs"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
